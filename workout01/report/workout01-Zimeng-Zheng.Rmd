@@ -4,8 +4,7 @@ author: "Zimeng Zheng"
 date: "March 10, 2019"
 output: github_document
 ---
-#Nightmare Warriors! Crazy 3rd Period!
-
+#Nightmare Warriors! Crazy 3rd Period! 
 In 2016 summer, Golden State Warriors got one of the best player in NBA --- Kevin Durant. Since then, GSW had got five stars, which made GSW much more stronger than before. Here, we will use the data of shots from five stars to analyze the offence of Warriors and which period they performanced the best.
 
 ```{r out.width='80%', echo=FALSE, fig.align='center'}
@@ -20,7 +19,7 @@ In 2016-2017, Golden State Warriors was the best scoring team, and most of the s
 |GSW|55.29%|39.49%|
 |Average|50.3%|35.8%|
 
-Many people think that GSW was a team relying on 3-PT shooting. However, from the table, we can know that both 2-point percentage and 3-point percentage of the five stars were higher than the league average in 2016-2017. That means, actually GSW performanced well both on 2-point and 3-point, and they did not just rely on their 3-PT shootings.
+Many people think that GSW was a team relying on 3-PT shooting. However, from the table, we can know that both 2-point percentage and 3-point percentage of the five stars were higher than the league average in 2016-2017. That means, actually GSW performed well both on 2-point and 3-point, and they did not just rely on their 3-PT shootings.
 
 ###2.Player Analysis
 Five stars did well both on 2-point and 3-point, but not all of them were good at both. Everyone did their own job and made use of their potential, which was one of the reasons why GSW was so strong.
@@ -59,7 +58,7 @@ Then, who was good at 3PT ball shooting and who was good at 2PT? Now, let's look
 |Iguodala|161|58|36.02%|
 |Green|232|74|31.90%|
 
-From these two tables, we prove our intuitive conclusion from the picture: Iguodala and Durant performanced better in 2PT balls. Curry and Thompson performanced better in 3PT balls. Iguodala had the least shooting opportunities but highest 2PT shooting percentage. The reason of this is that his shooting often came from cutting and changeover, which had a high success rate but needed the help from the teammates and opportunities.
+From these two tables, we prove our intuitive conclusion from the picture: Iguodala and Durant performed better in 2PT balls. Curry and Thompson performed better in 3PT balls. Iguodala had the least shooting opportunities but highest 2PT shooting percentage. The reason of this is that his shooting often came from cutting and changeover, which had a high success rate but needed the help from the teammates and opportunities.
 
 From these tables, we cannot tell which player is the best player in Warriors, because everyone had their own forte and their own duty. They were a team and shared balls but not just played individually.
 
@@ -123,11 +122,11 @@ The next question we want to discuss is that who was the craziest player in the 
 |Green|91|47|51.65%|63|19|30.16%|
 |Iguodala|47|33|70.21%|38|13|34.21%|
 
-From this table, we can see that five stars' shooting percentages mostly increased in the third period both 2-PT and 3-PT. Everyone performanced pretty good in the third period. And we can notice that Stephen Curry had a extremely high 3PT-shooting percentage in the third period. In general, Curry's 3-PT percentage was 40.76%, but in the third period, he had a 3-PT prcentage at 48.28% which was the highest 3-PT percentage among the five stars! What's more, he shot most 3-PT balls among five stars in the third period. From this, I think he was the best player in the third period for his 3-PT shooting was so destructive. His 3-PT balls made contribution on going ahead the score or increasing the difference of the points. He devoted most to the Warriors' crazy third period and lays a fundation for the winning. Maybe his crazy 3-point shooting also encouraged his teammates to performance better in the third period.
+From this table, we can see that five stars' shooting percentages mostly increased in the third period both 2-PT and 3-PT. Everyone performed pretty good in the third period. And we can notice that Stephen Curry had a extremely high 3PT-shooting percentage in the third period. In general, Curry's 3-PT percentage was 40.76%, but in the third period, he had a 3-PT prcentage at 48.28% which was the highest 3-PT percentage among the five stars! What's more, he shot most 3-PT balls among five stars in the third period. From this, I think he was the best player in the third period for his 3-PT shooting was so destructive. His 3-PT balls made contribution on going ahead the score or increasing the difference of the points. He devoted most to the Warriors' crazy third period and lays a fundation for the winning. Maybe his crazy 3-point shooting also encouraged his teammates to performance better in the third period.
 
 ###4. Summary
-In summary, we find that in season 2016-2017, Warrior was very strong, because they performanced both perfectly in 2-PT shooting and 3-Point shooting and every player had their own duty and they did very good job on what they were supposed to do. Beside, they performancd the best in the third period. They shot a lot of 3-PT balls and had a extremely high percentage in 3rd period which made them usually seal the victory just in the third period. Everyone performed very well, especially Curry. He was the best 3PT shooter in the third period. His good performance also encouraged his teammates in the third period.
+In summary, we find that in season 2016-2017, Warrior was very strong, because they performed both perfectly in 2-PT shooting and 3-Point shooting and every player had their own duty and they did very good job on what they were supposed to do. Beside, they performed the best in the third period. They shot a lot of 3-PT balls and had a extremely high percentage in 3rd period which made them usually seal the victory just in the third period. Everyone performed very well, especially Curry. He was the best 3PT shooter in the third period. His good performance also encouraged his teammates in the third period.
 
-This season, another great player Cousins joined in GSW, and till now, Warriors performanced very well. Hope that Warriors can get the champion this year and reproduce the miracale making three in a row. 
+This season, another great player Cousins joined in GSW, and till now, Warriors performed very well. Hope that Warriors can get the champion this year and reproduce the miracale making three in a row. 
 
 **GO WARRIORS GO!!!**
