@@ -79,11 +79,13 @@ knitr::include_graphics('../images/Heat2.png')
 ```
 
 In the game vs Magic on January 22nd, before the third period:
+
 ```{r out.width='80%', echo=FALSE, fig.align='center'}
 knitr::include_graphics('../images/Magic1.png')
 ```
 
 After:
+
 ```{r out.width='80%', echo=FALSE, fig.align='center'}
 knitr::include_graphics('../images/Magic2.png')
 ```

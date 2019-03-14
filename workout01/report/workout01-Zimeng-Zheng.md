@@ -73,9 +73,13 @@ After:
 
 <img src="../images/Heat2.png" width="80%" style="display: block; margin: auto;" />
 
-In the game vs Magic on January 22nd, before the third period: <img src="../images/Magic1.png" width="80%" style="display: block; margin: auto;" />
+In the game vs Magic on January 22nd, before the third period:
 
-After: <img src="../images/Magic2.png" width="80%" style="display: block; margin: auto;" />
+<img src="../images/Magic1.png" width="80%" style="display: block; margin: auto;" />
+
+After:
+
+<img src="../images/Magic2.png" width="80%" style="display: block; margin: auto;" />
 
 So why is that? Now, let's try to explain it using the data we have.
 
