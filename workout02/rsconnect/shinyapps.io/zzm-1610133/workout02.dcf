@@ -5,9 +5,9 @@ account: zzm-1610133
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 871489
-bundleId: 2020093
+bundleId: 2020130
 url: https://zzm-1610133.shinyapps.io/workout02/
-when: 1555548343.87229
+when: 1555549425.65196
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: shiny-tutorial.pdf|workout02-Zimeng-Zheng.R|workout02.pdf

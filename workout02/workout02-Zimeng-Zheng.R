@@ -15,7 +15,7 @@ ui <- fluidPage(
                          value = 5, min = 0, max = 20,step=0.1)),
     column(4,sliderInput(inputId = "year",
                          label = "Years",
-                         value = 10, min = 0, max = 50,step=1)),
+                         value = 20, min = 0, max = 50,step=1)),
     column(4,sliderInput(inputId = "contribution",
                          label = 'Annual Contribution',
                          value = 2000, min = 0, max = 50000,pre='$',sep=',',step=500)),
